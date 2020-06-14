@@ -1,5 +1,5 @@
 # Predicting_California_Housing_Prices
-Hard-coding a Neural Network from scratch to Predict California Housing Prices...
+## Hard-coding a Neural Network from scratch to Predict California Housing Prices...
 
 I shall write codes from scratch to build a Multi-Layer Deep Neural Network using python and use it to predict the price of houses in california. Each hidden layer will have the Linear-Relu Activation Function and the output layer will have the Relu activation function.
 
